@@ -11,7 +11,6 @@
       "mcVersion": "1.21.1",
       "loader": "fabric",
       "codes": [
-        { "code": "LUXFIRO-PARTY01", "maxUses": 10 },
         { "code": "LUXFIRO-VIP001",  "maxUses": 1  },
         { "code": "LUXFIRO-BETA01",  "maxUses": 5  }
       ],
