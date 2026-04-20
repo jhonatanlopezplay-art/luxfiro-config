@@ -10,21 +10,11 @@
       "background": "https://raw.githubusercontent.com/jhonatanlopezplay-art/luxfiro-config/main/party-games/bg.jpg",
       "mcVersion": "1.21.1",
       "loader": "fabric",
-      "whitelist": {
-        "discord": [
-        "1405667941697065024",
-        "754443571695845376",
-        "965092323182665790",
-        "1125572399912464516",
-        "780058136597626890" 
-        ],
-        "minecraft": [
-          "3d70b86383314b6cbc6ff777c21e4b12",
-          "79f1bc7fed7a4eb1951459c7967067d4",
-          "2e354adc880c4e3c829441fcb6f9d760",
-          "93b658cb37ec44768f252d731f8ed855"
-        ]
-      },
+      "codes": [
+        { "code": "LUXFIRO-PARTY01", "maxUses": 10 },
+        { "code": "LUXFIRO-VIP001",  "maxUses": 1  },
+        { "code": "LUXFIRO-BETA01",  "maxUses": 5  }
+      ],
       "mods": [
         {
           "filename": "fabric-api-0.116.9+1.21.1.jar.enc",
