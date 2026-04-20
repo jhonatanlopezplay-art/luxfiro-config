@@ -32,64 +32,7 @@
           "encrypted": true
         }
       ],
-      "configFiles": [
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/custom_gui_screens.txt",
-          "dest": "config/fancymenu/custom_gui_screens.txt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/customizablemenus.txt",
-          "dest": "config/fancymenu/customizablemenus.txt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/legacy_checklist.txt",
-          "dest": "config/fancymenu/legacy_checklist.txt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/options.txt",
-          "dest": "config/fancymenu/options.txt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/user_variables.db",
-          "dest": "config/fancymenu/user_variables.db"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/customization/beta-config.txt",
-          "dest": "config/fancymenu/customization/beta-config.txt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/customization/beta.txt",
-          "dest": "config/fancymenu/customization/beta.txt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/bg.png",
-          "dest": "config/fancymenu/assets/bg.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/icon.png",
-          "dest": "config/fancymenu/assets/icon.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/icon16.png",
-          "dest": "config/fancymenu/assets/icon16.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/icon2.icns",
-          "dest": "config/fancymenu/assets/icon2.icns"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/layout_editor/widgets/element_layer_control.lewidget",
-          "dest": "config/fancymenu/squids-beta/layout_editor/widgets/element_layer_control.lewidget"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/dark.json",
-          "dest": "config/fancymenu/squids-beta/ui-themes/dark.json"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/light.json",
-          "dest": "config/fancymenu/squids-beta/ui-themes/light.json"
-        }
-      ]
+      "configFiles": []
     }
   ]
 }
