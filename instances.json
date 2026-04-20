@@ -1,0 +1,245 @@
+{
+  "launcherName": "Lebiu Client",
+  "instances": [
+    {
+      "id": "squids-beta",
+      "name": "Squids Beta",
+      "description": "Servidor beta con mods exclusivos. Solo jugadores autorizados.",
+      "icon": "🦑",
+      "image": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/squids-beta/cover.png",
+      "background": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/squids-beta/bg2.jpg",
+      "mcVersion": "1.21.1",
+      "loader": "fabric",
+      "whitelist": {
+        "discord": [
+        "1405667941697065024",
+        "754443571695845376",
+        "965092323182665790",
+        "1125572399912464516",
+        "780058136597626890" 
+        ],
+        "minecraft": [
+          "3d70b86383314b6cbc6ff777c21e4b12",
+          "79f1bc7fed7a4eb1951459c7967067d4",
+          "2e354adc880c4e3c829441fcb6f9d760",
+          "93b658cb37ec44768f252d731f8ed855"
+        ]
+      },
+      "mods": [
+        {
+          "filename": "fabric-api-0.116.9+1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "Animorph-client-1.21.1-1.0.4-SNAPSHOT.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/Animorph-client-1.21.1-1.0.4-SNAPSHOT.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "geckolib-fabric-1.21.1-4.8.4.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/geckolib-fabric-1.21.1-4.8.4.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "ReFramed-1.6.6.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/ReFramed-1.6.6.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "panal-mod-1.5.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/panal-mod-1.5.0.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "papa-bomba-1.3.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/papa-bomba-1.3.0.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "periquito-mod-5.5.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/periquito-mod-5.5.0.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "better-clouds-1.7.19+1.21.1-fabric.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/better-clouds-1.7.19+1.21.1-fabric.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "cloth-config-15.0.140-fabric.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/cloth-config-15.0.140-fabric.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "common-networking-fabric-1.0.21-1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/common-networking-fabric-1.0.21-1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "entityculling-fabric-1.9.5-mc1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/entityculling-fabric-1.9.5-mc1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "ferritecore-7.0.3-fabric.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/ferritecore-7.0.3-fabric.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "malilib-fabric-1.21-0.21.10.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/malilib-fabric-1.21-0.21.10.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "modelfix-1.21-1.6-fabric.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/modelfix-1.21-1.6-fabric.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "modernfix-fabric-5.25.1+mc1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/modernfix-fabric-5.25.1+mc1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "placeholder-api-2.4.2+1.21.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/placeholder-api-2.4.2+1.21.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "sodium-extra-fabric-0.6.0+mc1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/sodium-extra-fabric-0.6.0+mc1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "sodium-fabric-0.6.13+mc1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/sodium-fabric-0.6.13+mc1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "SubtitleMod-Fabric-1.21.1-1.3.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/SubtitleMod-Fabric-1.21.1-1.3.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "bbs-cml-edition-1.10.1-1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/bbs-cml-edition-1.10.1-1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "melody_fabric_1.0.10_MC_1.21.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/melody_fabric_1.0.10_MC_1.21.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "fancymenu_fabric_3.8.1_MC_1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fancymenu_fabric_3.8.1_MC_1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "CMDCam-Fabric-new.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/CMDCam-Fabric-new.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "instrucciones_eufonia-1.0.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/instrucciones_eufonia-1.0.0.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "Axiom-5.3.0-for-MC1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/Axiom-5.3.0-for-MC1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "Pehkui-3.8.3+1.14.4-1.21.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/Pehkui-3.8.3+1.14.4-1.21.jar.enc",
+          "encrypted": true
+        }
+      ],
+      "configFiles": [
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/custom_gui_screens.txt",
+          "dest": "config/fancymenu/custom_gui_screens.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/customizablemenus.txt",
+          "dest": "config/fancymenu/customizablemenus.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/legacy_checklist.txt",
+          "dest": "config/fancymenu/legacy_checklist.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/options.txt",
+          "dest": "config/fancymenu/options.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/user_variables.db",
+          "dest": "config/fancymenu/user_variables.db"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/customization/beta-config.txt",
+          "dest": "config/fancymenu/customization/beta-config.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/customization/beta.txt",
+          "dest": "config/fancymenu/customization/beta.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/bg.png",
+          "dest": "config/fancymenu/assets/bg.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/icon.png",
+          "dest": "config/fancymenu/assets/icon.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/icon16.png",
+          "dest": "config/fancymenu/assets/icon16.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/assets/icon2.icns",
+          "dest": "config/fancymenu/assets/icon2.icns"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/layout_editor/widgets/element_layer_control.lewidget",
+          "dest": "config/fancymenu/squids-beta/layout_editor/widgets/element_layer_control.lewidget"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/dark.json",
+          "dest": "config/fancymenu/squids-beta/ui-themes/dark.json"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/light.json",
+          "dest": "config/fancymenu/squids-beta/ui-themes/light.json"
+        }
+      ]
+    }
+  ]
+}
