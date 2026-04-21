@@ -12,7 +12,7 @@
       "loader": "fabric",
       "codes": [
         { "code": "LUXFIRO-PRUEBA10",  "maxUses": 5  },
-        { "code": "LUXFIRO-ADMIN209",  "maxUses": 5  }
+        { "code": "LUXFIRO-ADMIN209",  "maxUses": 10  }
       ],
       "mods": [
         {
