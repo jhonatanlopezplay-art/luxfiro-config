@@ -19,6 +19,14 @@
         "redeemedAt": "2026-04-21T21:27:43.851Z",
         "revoked": false
       }
+    ],
+    "LUXFIRO-PRUEBA02": [
+      {
+        "name": "x_plix1",
+        "hostname": "JHONATAN",
+        "redeemedAt": "2026-04-21T21:43:21.088Z",
+        "revoked": false
+      }
     ]
   }
 }
