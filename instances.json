@@ -11,8 +11,8 @@
       "mcVersion": "1.21.1",
       "loader": "fabric",
       "codes": [
-        { "code": "LUXFIRO-PRUEBA10",  "maxUses": 5  }
-        { "code": "LUXFIRO-PRUEBA14",  "maxUses": 5  }
+        { "code": "LUXFIRO-PRUEBA10",  "maxUses": 5  },
+        { "code": "LUXFIRO-ADMIN209",  "maxUses": 5  }
       ],
       "mods": [
         {
