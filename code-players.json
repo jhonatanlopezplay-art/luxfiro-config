@@ -12,6 +12,12 @@
         "hostname": "JHONATAN",
         "redeemedAt": "2026-04-21T02:54:14.967Z",
         "revoked": false
+      },
+      {
+        "name": "x_plix1",
+        "hostname": "JHONATAN",
+        "redeemedAt": "2026-04-21T03:02:06.380Z",
+        "revoked": false
       }
     ]
   }
