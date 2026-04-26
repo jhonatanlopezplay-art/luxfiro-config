@@ -8,19 +8,13 @@
       "icon": "🎉",
       "image": "https://raw.githubusercontent.com/jhonatanlopezplay-art/luxfiro-config/main/party-games/icon.png",
       "background": "https://raw.githubusercontent.com/jhonatanlopezplay-art/luxfiro-config/main/party-games/bg3.jpg",
-      "mcVersion": "1.21.1",
-      "loader": "fabric",
+      "mcVersion": "1.18.2",
+      "loader": "forge",
       "codes": [
         { "code": "LUXFIRO-PRUEBA10",  "maxUses": 5  },
         { "code": "LUXFIRO-ADMIN209",  "maxUses": 10  }
       ],
-      "mods": [
-        {
-          "filename": "fabric-api-0.116.9+1.21.1.jar.enc",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar.enc",
-          "encrypted": true
-        }
-      ],
+      "mods": [],
       "configFiles": []
     }
   ]
