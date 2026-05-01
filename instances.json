@@ -11,8 +11,8 @@
       "mcVersion": "1.18.2",
       "loader": "forge",
       "codes": [
-        { "code": "LUXFIRO-PRUEBA10",  "maxUses": 5  },
-        { "code": "LUXFIRO-ADMIN209",  "maxUses": 10  }
+        { "code": "LUXFIRO-PARTY980",  "maxUses": 150  },
+        { "code": "LUXFIRO-ADMIN209",  "maxUses": 20  }
       ],
       "mods": [
         {
