@@ -18,10 +18,6 @@
         {
           "code": "LUXFIRO-ADMIN209",
           "maxUses": 20
-        },
-        {
-          "code": "LUXFIRO-WRPETER-ADMIN",
-          "maxUses": 9999
         }
       ],
       "mods": [
